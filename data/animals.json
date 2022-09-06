@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Jeffy",
+      "species": "JiroMonster",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
